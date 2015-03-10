@@ -8,5 +8,5 @@
 https://drive.google.com/?tab=Xo&authuser=0#folders/0B0oxLG0wpZBkRElOSVM3RXNhb1k
 
 # Контакты лаборатории JetBrains
-vk.com/jetbrains_lab
+http://vk.com/jetbrains_lab ;
 @jetbrainsLab (Twitter)
